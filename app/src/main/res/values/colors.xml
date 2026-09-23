@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="kmn_background">#0B0F14</color>
+    <color name="kmn_surface">#151A21</color>
+    <color name="kmn_surface_2">#1D232C</color>
+
+    <color name="kmn_primary">#7C5CFC</color>
+    <color name="kmn_primary_dark">#5B3FD1</color>
+
+    <color name="kmn_text">#FFFFFF</color>
+    <color name="kmn_text_secondary">#AAB2BF</color>
+
+    <color name="kmn_user_message">#2B244A</color>
+    <color name="kmn_ai_message">#171D25</color>
+
+    <color name="kmn_divider">#2A313B</color>
+    <color name="kmn_error">#FF5C5C</color>
+
+</resources>
